@@ -1,0 +1,25 @@
+#carte {
+    height: 400px;
+}
+h1.titre1 {
+    color: coral;
+    background-color: blue;
+}
+h1.titre2{
+    color :blue;
+}
+.mb50 {
+    margin-bottom: 50px;
+}
+.p {
+    padding: 10px 25px;
+}
+.pl50 {
+    padding-left: 50px;
+}
+a {
+    color: black;
+    text-decoration: none;
+    cursor: move;
+    border: 2px dashed #000;
+}
